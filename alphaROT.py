@@ -1,8 +1,5 @@
 #!/usr/bin/python3
 
-import requests
-import re
-
 alpha = "abcdefghijklmnopqrstuvwxyzabcabcdefghijklmnopqrstuvwxyzabc"
 
 draft_string = input("Enter Here -> ")
